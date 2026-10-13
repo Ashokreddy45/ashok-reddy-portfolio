@@ -10,6 +10,6 @@ export const profile = {
   education: 'B.Tech, Computer Science Engineering — Data Science',
   institution: 'KL University · Vijayawada, India',
   educationPeriod: '2022–2026',
-  email: 'ashok.reddy09@gmail.com',
+  email: 'ashok.reddy09d@gmail.com',
   resume: ''
 };
